@@ -37,6 +37,10 @@ iOS 8.3 or above
 
 ## Installation
 
+#### As a Swift Package (SPM)
+
+https://github.com/gooddianbao/TOPasscodeViewController.git
+
 #### As a CocoaPods Dependency
 
 Add the following to your Podfile:
